@@ -1,5 +1,6 @@
-# Farmacia-en-linea
-sistema para la encriptación de imagenes utilizando el algoritmo blowfish
+# Encriptador-de-imagenes-blowfish
+
+Sistema para la encriptación de imagenes utilizando el algoritmo blowfish
 
 Lenguaje: C# Windows Forms
 
