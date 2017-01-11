@@ -1,13 +1,11 @@
 # Farmacia-en-linea
-sistema web utilizando Java y JSP
+sistema para la encriptación de imagenes utilizando el algoritmo blowfish
 
-Lenguaje: Java
-
-Vista: JSP, HTML, JS, CSS, JQuery
+Lenguaje: C# Windows Forms
 
 Patron: 3 capas
 
-Base de datos: MySQL
+Base de datos: Microsoft SQL Server
 
 
 
