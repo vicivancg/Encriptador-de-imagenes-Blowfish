@@ -1,0 +1,7 @@
+Sistema de encriptación de imagenes blowfish
+
+Objetivo: Sistema que permite convertir una imagen en texto, que ademas esta encriptado
+mediante el algoritmo de clave simetrica blowfish, tambien permite el proceso inverso
+
+Funcionamiento. El sistema esta programado en C# y la interfaz esta conformada por
+Windows Forms.
